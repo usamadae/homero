@@ -1,0 +1,11 @@
+.border-before::before {
+    content: "";
+    border-bottom: 12px solid #F79B1E;
+    position: absolute;
+    bottom: 0px;
+    width:100%;
+}
+
+.logos-slider .slick-slide{
+    display: flex !important;
+}
