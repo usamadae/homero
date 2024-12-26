@@ -6,6 +6,8 @@ tailwind.config = {
         
         lightgrey: '#141F2F',
         golden : '#F79B1E',
+        bgray:'#F6F6F7',
+        gray:'#959AA1',
       },
       fontFamily: {
         poppins: ['Poppins', 'sans-serif'],
