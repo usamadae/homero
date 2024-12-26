@@ -8,4 +8,5 @@
 
 .logos-slider .slick-slide{
     display: flex !important;
+    justify-content: center;
 }
