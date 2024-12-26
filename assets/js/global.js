@@ -22,8 +22,8 @@ tailwind.config = {
 
 $('.logos-slider').slick({
   slidesToShow: 7,
-  slidesToScroll: 1,
-  autoplay: true,
+  slidesToScroll: 0,
+  autoplay: false,
   autoplaySpeed: 3000,
   arrows: false,
   dots: false,
